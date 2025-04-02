@@ -34,4 +34,4 @@ Use only on files you own or have permission to decrypt. Not responsible for mis
 
 📥 Download  
 
-Get the latest executable [here]([https://github.com/yourname/repo/releases](https://github.com/Ammounnn/DecryptMe/releases/tag/v1.0))
+Get the latest executable [here]([(https://github.com/Ammounnn/DecryptMe/releases/tag/v1.0)])
