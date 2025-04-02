@@ -31,3 +31,7 @@ CTF challenges & cybersecurity training
 ⚠️ Legal Note
 
 Use only on files you own or have permission to decrypt. Not responsible for misuse.
+
+📥 Download  
+
+Get the latest executable [here](https://github.com/yourname/repo/releases)
