@@ -35,3 +35,13 @@ Use only on files you own or have permission to decrypt. Not responsible for mis
 📥 Download  
 
 Get the latest executable [here](https://github.com/Ammounnn/DecryptMe/releases/tag/v1.0)
+
+Donations
+
+Donate to me [here](https://ko-fi.com/shadowbyte)
+
+By donating to me you are helping me to continue uploading tools and more 
+
+Isues
+
+If u have any issue email me : azzabiamine649@gmail.com
